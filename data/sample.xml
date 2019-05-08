@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Source: https://www.w3schools.com/xml/xsl_intro.asp-->
 <catalog>
+  <price>
+    9999
+  </price>
   <cd>
     <title>Empire Burlesque</title>
     <artist>Bob Dylan</artist>
