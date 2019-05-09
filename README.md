@@ -11,4 +11,4 @@ Steps:
 <br>
 7- Follow the comments in the [Jupyter Notebook](https://github.com/tomasdembelli/learningXML/blob/master/manipulateXMLviaPython.ipynb) file.  
 
-8- Run <b>python -m SimpleHTTPServer 8000</b> from the [xsl folder](https://github.com/tomasdembelli/learningXML/tree/master/xsl) and visit the <b>localhost:8000</b> address to see the rendered XML files in a web browser. 
+8- For the XSL(T) examples: Run <b>python -m SimpleHTTPServer 8000</b> from the [xsl folder](https://github.com/tomasdembelli/learningXML/tree/master/xsl) and visit the <b>localhost:8000</b> address to see the rendered XML files in a web browser. 
